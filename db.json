@@ -1,0 +1,430 @@
+{
+    "collections": [
+      {
+        "id": "10001",
+        "name": "Symphony of Legends",
+        "artist": "Eleanor Nightingale",
+        "type": "Album",
+        "songCount": 5,
+        "durationInSeconds": 1800,
+        "sizeInBytes": 75000000,
+        "releasedOn": "2023-05-14T10:00:00Z",
+        "songs": [
+          {
+            "title": "Legend Awakens",
+            "durationInSeconds": 360,
+            "sizeInBytes": 15000000,
+            "performers": [
+              "Eleanor Nightingale", "Tom", "Sam"
+            ]
+          },
+          {
+            "title": "Echoes of Heroes",
+            "durationInSeconds": 340,
+            "sizeInBytes": 14000000,
+            "performers": [
+              "Eleanor Nightingale", "Stuvard"
+            ]
+          },
+          {
+            "title": "Victory March",
+            "durationInSeconds": 320,
+            "sizeInBytes": 13000000,
+            "performers": [
+              "Eleanor Nightingale"
+            ]
+          },
+          {
+            "title": "Timeless Overture",
+            "durationInSeconds": 300,
+            "sizeInBytes": 12000000,
+            "performers": [
+              "Eleanor Nightingale"
+            ]
+          },
+          {
+            "title": "Finale of Legends",
+            "durationInSeconds": 280,
+            "sizeInBytes": 11000000,
+            "performers": [
+              "Eleanor Nightingale"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10002",
+        "name": "Jazz in the Moonlight",
+        "artist": "Miles Kensington",
+        "type": "EP",
+        "songCount": 3,
+        "durationInSeconds": 900,
+        "sizeInBytes": 45000000,
+        "releasedOn": "2022-11-20T12:30:00Z",
+        "songs": [
+          {
+            "title": "Midnight Swing",
+            "durationInSeconds": 320,
+            "sizeInBytes": 13000000,
+            "performers": [
+              "Miles Kensington"
+            ]
+          },
+          {
+            "title": "Golden Sax",
+            "durationInSeconds": 290,
+            "sizeInBytes": 12000000,
+            "performers": [
+              "Miles Kensington"
+            ]
+          },
+          {
+            "title": "Moonlight Groove",
+            "durationInSeconds": 310,
+            "sizeInBytes": 12500000,
+            "performers": [
+              "Miles Kensington"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10003",
+        "name": "Epic Guitar Solos",
+        "artist": "Axel Thunder",
+        "type": "Single",
+        "songCount": 4,
+        "durationInSeconds": 1200,
+        "sizeInBytes": 60000000,
+        "releasedOn": "2024-02-01T08:45:00Z",
+        "songs": [
+          {
+            "title": "Shredding Thunder",
+            "durationInSeconds": 300,
+            "sizeInBytes": 14000000,
+            "performers": [
+              "Axel Thunder"
+            ]
+          },
+          {
+            "title": "Solo Frenzy",
+            "durationInSeconds": 280,
+            "sizeInBytes": 13000000,
+            "performers": [
+              "Axel Thunder"
+            ]
+          },
+          {
+            "title": "Guitar Inferno",
+            "durationInSeconds": 320,
+            "sizeInBytes": 15000000,
+            "performers": [
+              "Axel Thunder"
+            ]
+          },
+          {
+            "title": "Finale Riff",
+            "durationInSeconds": 260,
+            "sizeInBytes": 12000000,
+            "performers": [
+              "Axel Thunder"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10004",
+        "name": "Electronic Dreams",
+        "artist": "DJ Spectrum",
+        "type": "Album",
+        "songCount": 2,
+        "durationInSeconds": 600,
+        "sizeInBytes": 30000000,
+        "releasedOn": "2023-07-10T09:20:00Z",
+        "songs": [
+          {
+            "title": "Digital Horizon",
+            "durationInSeconds": 310,
+            "sizeInBytes": 12500000,
+            "performers": [
+              "DJ Spectrum"
+            ]
+          },
+          {
+            "title": "Neon Waves",
+            "durationInSeconds": 290,
+            "sizeInBytes": 12000000,
+            "performers": [
+              "DJ Spectrum"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10005",
+        "name": "Acoustic Vibes",
+        "artist": "Luna Harper",
+        "type": "EP",
+        "songCount": 5,
+        "durationInSeconds": 1500,
+        "sizeInBytes": 50000000,
+        "releasedOn": "2023-03-05T15:15:00Z",
+        "songs": [
+          {
+            "title": "Serene Sunset",
+            "durationInSeconds": 320,
+            "sizeInBytes": 13000000,
+            "performers": [
+              "Luna Harper"
+            ]
+          },
+          {
+            "title": "Campfire Nights",
+            "durationInSeconds": 290,
+            "sizeInBytes": 12000000,
+            "performers": [
+              "Luna Harper"
+            ]
+          },
+          {
+            "title": "Ocean Breeze",
+            "durationInSeconds": 310,
+            "sizeInBytes": 12500000,
+            "performers": [
+              "Luna Harper"
+            ]
+          },
+          {
+            "title": "Misty Meadows",
+            "durationInSeconds": 280,
+            "sizeInBytes": 11500000,
+            "performers": [
+              "Luna Harper"
+            ]
+          },
+          {
+            "title": "Golden Fields",
+            "durationInSeconds": 300,
+            "sizeInBytes": 12000000,
+            "performers": [
+              "Luna Harper"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10006",
+        "name": "Hip-Hop Chronicles",
+        "artist": "MC Blaze",
+        "type": "Album",
+        "songCount": 4,
+        "durationInSeconds": 1400,
+        "sizeInBytes": 55000000,
+        "releasedOn": "2024-01-10T17:00:00Z",
+        "songs": [
+        {
+          "title": "Rhymes on Fire",
+          "durationInSeconds": 350,
+          "sizeInBytes": 14500000,
+          "performers": [
+            "MC Blaze"
+          ]
+        },
+        {
+          "title": "Urban Groove",
+          "durationInSeconds": 330,
+          "sizeInBytes": 14000000,
+          "performers": [
+            "MC Blaze"
+          ]
+        },
+        {
+          "title": "Bass Drop",
+          "durationInSeconds": 320,
+          "sizeInBytes": 13500000,
+          "performers": [
+            "MC Blaze"
+          ]
+        },
+        {
+          "title": "Street Flow",
+          "durationInSeconds": 400,
+          "sizeInBytes": 15000000,
+          "performers": [
+            "MC Blaze"
+          ]
+        }
+      ]
+      },
+      {
+        "id": "10007",
+        "name": "Classical Masterpieces",
+        "artist": "Orchestra Royale",
+        "type": "Album",
+        "songCount": 3,
+        "durationInSeconds": 1600,
+        "sizeInBytes": 65000000,
+        "releasedOn": "2021-12-20T11:00:00Z",
+        "songs": [
+        {
+          "title": "Symphony No. 5",
+          "durationInSeconds": 600,
+          "sizeInBytes": 25000000,
+          "performers": [
+            "Orchestra Royale"
+          ]
+        },
+        {
+          "title": "Moonlight Sonata",
+          "durationInSeconds": 500,
+          "sizeInBytes": 22000000,
+          "performers": [
+            "Orchestra Royale"
+          ]
+        },
+        {
+          "title": "Canon in D",
+          "durationInSeconds": 500,
+          "sizeInBytes": 23000000,
+          "performers": [
+            "Orchestra Royale"
+          ]
+        }
+      ]
+      },
+      {
+        "id": "10008",
+        "name": "Pop Hits 2024",
+        "artist": "Various Artists",
+        "type": "Album",
+        "songCount": 5,
+        "durationInSeconds": 1800,
+        "sizeInBytes": 80000000,
+        "releasedOn": "2024-02-14T09:00:00Z",
+        "songs": [
+        {
+          "title": "Summer Love",
+          "durationInSeconds": 280,
+          "sizeInBytes": 11000000,
+          "performers": [
+            "Various Artists"
+          ]
+        },
+        {
+          "title": "Dancing All Night",
+          "durationInSeconds": 300,
+          "sizeInBytes": 12000000,
+          "performers": [
+            "Various Artists"
+          ]
+        },
+        {
+          "title": "Heartbeat",
+          "durationInSeconds": 320,
+          "sizeInBytes": 13000000,
+          "performers": [
+            "Various Artists"
+          ]
+        },
+        {
+          "title": "Neon Lights",
+          "durationInSeconds": 310,
+          "sizeInBytes": 12500000,
+          "performers": [
+            "Various Artists"
+          ]
+        },
+        {
+          "title": "Feel the Beat",
+          "durationInSeconds": 290,
+          "sizeInBytes": 11500000,
+          "performers": [
+            "Various Artists"
+          ]
+        }
+      ]
+      },
+      {
+        "id": "10009",
+        "name": "Indie Rock Anthems",
+        "artist": "The Wild Echoes",
+        "type": "Single",
+        "songCount": 2,
+        "durationInSeconds": 600,
+        "sizeInBytes": 30000000,
+        "releasedOn": "2023-06-18T13:30:00Z",
+        "songs": [
+        {
+          "title": "Echoes of Youth",
+          "durationInSeconds": 320,
+          "sizeInBytes": 12500000,
+          "performers": [
+            "The Wild Echoes"
+          ]
+        },
+        {
+          "title": "Rebel Anthem",
+          "durationInSeconds": 280,
+          "sizeInBytes": 11500000,
+          "performers": [
+            "The Wild Echoes"
+          ]
+        }
+      ]
+      },
+      {
+        "id": "10010",
+        "name": "Metal Mayhem",
+        "artist": "Iron Storm",
+        "type": "EP",
+        "songCount": 5,
+        "durationInSeconds": 2000,
+        "sizeInBytes": 85000000,
+        "releasedOn": "2024-03-01T14:00:00Z",
+        "songs": [
+        {
+          "title": "Metal Inferno",
+          "durationInSeconds": 400,
+          "sizeInBytes": 18000000,
+          "performers": [
+            "Iron Storm"
+          ]
+        },
+        {
+          "title": "Storm Breaker",
+          "durationInSeconds": 380,
+          "sizeInBytes": 17000000,
+          "performers": [
+            "Iron Storm"
+          ]
+        },
+        {
+          "title": "Fury Rising",
+          "durationInSeconds": 360,
+          "sizeInBytes": 16000000,
+          "performers": [
+            "Iron Storm"
+          ]
+        },
+        {
+          "title": "Shadow Realm",
+          "durationInSeconds": 340,
+          "sizeInBytes": 15000000,
+          "performers": [
+            "Iron Storm"
+          ]
+        },
+        {
+          "title": "Final Stand",
+          "durationInSeconds": 320,
+          "sizeInBytes": 14000000,
+          "performers": [
+            "Iron Storm"
+          ]
+        }
+      ]
+      }
+    ]
+    
+
+}
